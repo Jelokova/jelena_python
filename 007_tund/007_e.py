@@ -1,0 +1,20 @@
+import datetime
+t=datetime.time(10,15,32)
+print(t)
+print(t.hour)
+t2 = datetime.time(22,30,15)
+print(t2.hour-t.hour)
+
+dt=datetime.datetime(2020,5,17,12,30,15)
+print(dt)
+print(type(dt))
+print(dt.date())
+print(dt.time())
+today=datetime.datetime.today()
+print(today)
+today2=datetime.datetime.now()
+print(today2)
+
+print(today-dt)
+tdelta= datetime.timedelta(minutes=25,hours=6)
+print((today+tdelta).date())
