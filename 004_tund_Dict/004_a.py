@@ -2,6 +2,7 @@ x=5
 #dictionary #Key,value1,value2,
 student={'name':'Jack', 'age': 32,'courses':['Match','Art','Programming'],
         1:'int_key', 0.2:'float_key', x:'variable','var_value': x, True:'hello world'}
+print(student)
 print(student['name']) # index is key
 print(student[x])
 print(student.get('job')) #if key is not exisist, give None and programm will continue

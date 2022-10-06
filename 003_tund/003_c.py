@@ -1,4 +1,4 @@
-courses =('History','Math', 'Litherature', 'Physics', 'Programmimg','Litherature')
+courses =('History','Math', 'Litherature', 'Physics', 'Programmimg','Litherature','Litherature')
 nums=(1,5,6,8,3,4,2)
 # # TUPLE # # ()
 emply_tup=tuple()
