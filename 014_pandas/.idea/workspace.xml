@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="338c1093-91fe-49d0-b62b-845b2c1d0caa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../000_my_task/Hanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../000_my_task/fibon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../009_tund_json_csv/009_kt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/010_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/010_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/010_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/010_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/010_kt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/cheat_sheet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/homework.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/people.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010_tund_reg_expr/samples.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011_tund/011_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011_tund/011_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011_tund/011_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011_tund/011_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011_tund/011_e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011_tund/011_f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/012_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/012_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/012_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/012_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/012_e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/012_f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/012_kodutoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/new1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../012_tund/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013_tund_repeat/013_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013_tund_repeat/013_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013_tund_repeat/013_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013_tund_repeat/013_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013_tund_repeat/013_e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013_tund_repeat/013_f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013_tund_repeat/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_l.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_m.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tester.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jelena_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/jelena_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GzT0Im6UoA3yNDMnspsFkMHqxe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/gamma/PycharmProjects/Python10"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="338c1093-91fe-49d0-b62b-845b2c1d0caa" name="Changes" comment="" />
+      <created>1667390187673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667390187673</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

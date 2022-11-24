@@ -1,0 +1,12 @@
+        h1{
+        color:yellow;
+        background-color: red;
+        }
+        #heading {
+        border: 10px double lime;
+        color: deeppink;
+        }
+        .title {
+            font-size: 100px;
+            color:dodgerblue;
+        }
