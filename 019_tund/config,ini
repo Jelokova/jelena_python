@@ -1,0 +1,14 @@
+[DEFAULT]
+login = mylogin
+pass = mypass
+
+[EMAIL]
+email = roman@com
+email_pass = 1234
+
+[DATABASE]
+name = db_root
+user = root
+pass = 1234
+host = hostename
+
